@@ -2,9 +2,9 @@
 
 ## Feedbacks
 
-<p>[Links](https://docs.google.com/spreadsheets/d/1_xAzloDlA-DcJ0UxAbJAVkOYW3HNAj6iNwgD8d2ahgI/edit#gid=812325607)</p>
+You can visit [here](https://docs.google.com/spreadsheets/d/1_xAzloDlA-DcJ0UxAbJAVkOYW3HNAj6iNwgD8d2ahgI/edit#gid=812325607)
 
-List of Topics that has been shared:
+## List of Topics
 
 - [Image Component on NextJs](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Salina%20-%2013th%20April)
 - [UI Vs UX Design](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Deepak%20-%2020th%20April)
