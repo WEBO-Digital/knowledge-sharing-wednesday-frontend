@@ -10,5 +10,6 @@ You can visit [here](https://docs.google.com/spreadsheets/d/1_xAzloDlA-DcJ0UxAbJ
 - [UI Vs UX Design](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Deepak%20-%2020th%20April)
 - [Handling Layouts in NextJS/React using ContextAPI](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Sushant%20-%2027th%20April)
 - [Data Fetching in NextJs](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Karan%20-%204th%20May)
+- [CSS Defensive Mindset]()
 
 
