@@ -12,5 +12,6 @@ You can visit [here](https://docs.google.com/spreadsheets/d/1_xAzloDlA-DcJ0UxAbJ
 - [Data Fetching in NextJs](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Karan%20-%204th%20May)
 - [CSS Defensive Mindset](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Nirajan%20-%2011th%20May)
 - [JavaScript Array Methods](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Sameer%20-%2018th%20May)
+- [Figma vs Adobe XD](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Ashish%20-%2018th%20May)
 
 
