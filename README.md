@@ -11,5 +11,6 @@ You can visit [here](https://docs.google.com/spreadsheets/d/1_xAzloDlA-DcJ0UxAbJ
 - [Handling Layouts in NextJS/React using ContextAPI](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Sushant%20-%2027th%20April)
 - [Data Fetching in NextJs](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Karan%20-%204th%20May)
 - [CSS Defensive Mindset](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Nirajan%20-%2011th%20May)
+- [Figma vs Adobe XD](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Sameer%20-%2018th%20May)
 
 
