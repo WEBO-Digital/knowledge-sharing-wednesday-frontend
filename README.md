@@ -13,3 +13,4 @@
 - [Internship experience on Frontend development](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Amod%20-%2015th%20June)
 - [Javascript Optimization tips to improve performance](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Shiva%20-%2023th%20June)
 - [Introduction to Firebase as a backend](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Prabin%20-%206th%20July)
+- [Git Workflows](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Shreeya%20-%2020th%20July)
