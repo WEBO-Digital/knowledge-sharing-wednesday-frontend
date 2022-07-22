@@ -15,3 +15,5 @@ You can visit [here](https://docs.google.com/spreadsheets/d/1_xAzloDlA-DcJ0UxAbJ
 - [Figma vs Adobe XD](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Ashish%20-%2025th%20May)
 - [Internship experience on Frontend development]()
 - [Javascript Optimization tips to improve performance]()
+
+# Few changes required
