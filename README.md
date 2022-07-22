@@ -1,8 +1,4 @@
-# WEBO KSW Frontend Lists
-
-## Feedbacks
-
-You can visit [here](https://docs.google.com/spreadsheets/d/1_xAzloDlA-DcJ0UxAbJAVkOYW3HNAj6iNwgD8d2ahgI/edit#gid=812325607)
+# WEBO KSW Frontend (Knowledge Sharing Wednesday)
 
 ## List of Topics
 
@@ -13,7 +9,7 @@ You can visit [here](https://docs.google.com/spreadsheets/d/1_xAzloDlA-DcJ0UxAbJ
 - [CSS Defensive Mindset](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Nirajan%20-%2011th%20May)
 - [JavaScript Array Methods](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Sameer%20-%2018th%20May)
 - [Figma vs Adobe XD](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Ashish%20-%2025th%20May)
+- [Routing Feature of NextJs]()
 - [Internship experience on Frontend development](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Amod%20-%2015th%20June)
 - [Javascript Optimization tips to improve performance](https://github.com/WEBO-Digital/knowledge-sharing-wednesday-frontend/tree/main/Shiva%20-%2023th%20June)
-
-- Add few changes to the documentation
+- [Introduction to Firebase as a backend](https://1drv.ms/p/s!Ann50xbuOnh8nx5dRckBVLnP-GCD?e=OsMHRI)
